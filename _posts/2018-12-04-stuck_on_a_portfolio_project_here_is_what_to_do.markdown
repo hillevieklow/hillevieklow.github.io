@@ -26,7 +26,7 @@ I realized I needed to create a major change in my workflow, or I would be stuck
 
 **7. Do not be afraid to ask for help.** Flatiron School has fantastic instructors out there ready to help us, students, when we are lost. Sometimes it is worth it to save yourself a day of googling with booking a meeting with a pro instead. Secondly, the community on Slack is super helpful! Try to see if anyone else has run into the same problems. 
 
-**8. Set a project deadline.** Pick a feasible project deadline and stick to it. Exactly like you cannot postpone Finals in school, or presentations at work, because "You don't feel ready", you cannot postpone this. You just can't. My personal project deadline is today, as I am writing this. Guess what? I worked super hard to get here and now my project is done. Now go do yours! :) 
+**8. Set a project deadline.** Pick a feasible project deadline and stick to it. Exactly like you cannot postpone Finals in school, or presentations at work, because "You don't feel ready", you cannot postpone this. You just can't. My personal project deadline is today, as I am writing this. Guess what? I worked super hard to get here and now, after three and a half months, my project is done. Now go do yours! :) 
 
 Happy Bootcamping,
 
