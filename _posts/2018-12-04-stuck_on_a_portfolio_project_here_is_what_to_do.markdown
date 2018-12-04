@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Stuck On A Portfolio Project? Here Is What To Do"
-date:       2018-12-04 20:58:37 +0000
+title:      "Stuck on a Portfolio Project? Here is what to do"
+date:       2018-12-04 15:58:37 -0500
 permalink:  stuck_on_a_portfolio_project_here_is_what_to_do
 ---
 
