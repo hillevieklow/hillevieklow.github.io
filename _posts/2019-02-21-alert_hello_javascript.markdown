@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "alert( 'Hello, JavaScript!' );"
-date:       2019-02-21 19:19:45 +0000
+date:       2019-02-21 14:19:46 -0500
 permalink:  alert_hello_javascript
 ---
 
@@ -9,7 +9,7 @@ For my fourth and second to last portfolio project here at Flatiron School, I wa
 
 The whole idea behind my Ruby on Rails project was to create an App that would allow users to share cocktail recipes, and find new ones either by browsing the Recipes page or through filter by a certain ingredient. 
 
-With the adding of Javascript, I wanted to add the features of writing reviews on the recipies, have a "read more" link that renders more information without refresh, and the ability to move between different recipes (without reload!) with "next" and "previous" buttons.
+With the adding of Javascript, I wanted to add the features of writing reviews on the recipes, have a "read more" link that renders more information without refresh, and the ability to move between different recipes (without reload!) with "next" and "previous" buttons.
 
 Here are the specific project requirements, a description of how I implemented them in my app, and a few examples.
 
