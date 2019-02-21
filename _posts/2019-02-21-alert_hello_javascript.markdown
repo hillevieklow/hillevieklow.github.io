@@ -5,7 +5,7 @@ date:       2019-02-21 14:19:46 -0500
 permalink:  alert_hello_javascript
 ---
 
-For my fourth and second to last portfolio project here at Flatiron School, I was instructed to add dynamic features to my previous project [Bartender App] (http://https://github.com/hillevieklow/bartender-rails-app). These features are made possible through JavaScript with JQuery library, and of course JSON API. 
+For my fourth and second to last portfolio project here at Flatiron School, I was instructed to add dynamic features to my previous project [Bartender App](http://https://github.com/hillevieklow/bartender-rails-app). These features are made possible through JavaScript with JQuery library, and of course JSON API. 
 
 The whole idea behind my Ruby on Rails project was to create an App that would allow users to share cocktail recipes, and find new ones either by browsing the Recipes page or through filter by a certain ingredient. 
 
@@ -91,7 +91,7 @@ Together with the following Javascript, each recipe is presented, and if the use
 **Must render at least one show page (show resource - 'one specific thing') via JavaScript and an Active Model Serialization JSON Backend.**
 When on the recipe-show page, a user can click two buttons; next and previous, and another recipes show page is rendered via JS and an Active Model Serialization JSON Backend. 
 
-**Your Rails application must reveal at least one `has-many` relationship through JSON that is then rendered to the page.**
+**Your Rails application must reveal at least one has-many relationship through JSON that is then rendered to the page.**
 In my app, a recipe has many reviews, and a recipe has many recipe-ingredients.
 
 **Must use your Rails application to render a form for creating a resource that is submitted dynamically through JavaScript.**
