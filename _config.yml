@@ -1,15 +1,14 @@
 # Site settings
-title: Hillevi's Coding Blog
+author: Hillevi
+title: Hillevi's Blog
 header-img: img/home-bg.png
 email: hillevieklow@gmail.com
-copyright_name: hillevieklow
+copyright_name: Hillevi
 description: > # this means to ignore newlines until "baseurl:"
-  A blog about my journey to learn how to code
+  Flatiron School Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: hillevieklow
 github_username:  hillevieklow
-learn_profile: hillevieklow
-email_username: hillevieklow@gmail.com
 
 # Build settings
 markdown: kramdown
