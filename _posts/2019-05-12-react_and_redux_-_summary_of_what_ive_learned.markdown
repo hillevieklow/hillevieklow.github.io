@@ -12,11 +12,11 @@ TLDR;
 -  Redux has a store, actions, and reducers, and it separates data management from the UI
 -  Redux has many benefits when building complex applications, however for smaller ones it's less needed
 
-_____________________________________________________________________________
 
 Adding React and Redux to my final project was something I struggled with a lot. This lead to a lot of re-reading Flatiron School Curriculum, and googling. In this blogpost I will define some of the key takeaways I have learned about React, Redux, and Redux thunk.
 
 **React Basics**
+
 React is a Javascript Library for building user interfaces (UI). In essence, React lets you create advanced UIs through small and isolated pieces of code, refered to as *components*. Components are used to tell React what to display on the screen.
 
 The most common type of components are `class components`. They take in parameters, which are refered to as `props`, and then returns a views to display with the render method.
@@ -26,6 +26,7 @@ Another important object in React are `states`. States within component are quit
 However, when the number of components increases, passing props back and forward becomes more and more tricky. This is when react comes in. 
 
 **Redux Basics**
+
 Redux is a library for application state management. That is, it can be used to manage React componenets 'states'. In essence, Redux state is a centralised global store that is accessible to any component that has imported it. Redux change the state of components through `dispatch`, actions and reducers. 
 
 *Dispatch* is a function of the Redux store and we call `store.dispatch` to dispatch an action. This is the only way to trigger a state change. By declaring a `mapDispatchToProps` constant it allows us to specify which actions our compmonent might need to dispatch. It lets us provide action dispatching function as props.
@@ -44,11 +45,13 @@ Redux is a library for application state management. That is, it can be used to 
 4. Unmonted components still have a state - a centralised store persists the state of a component even efter it has unmounted.
 
 **Cons of React + Redux**
+
 1. Exessive memory use - since a state is immutable, and each state change returns a shallow copy, it can lead to more memory being used than necessary.
 2. Restricted design - when implementing Redux, there is only one way to do it. Therefore, it's less flexible than other way of managing states. 
 
 
 **Conclusion**
+
 Redux is a great framework for more complex applications. For my final project, the pros of implementing Redux isn't that significant, since the project is fairly light weight. However, there are definitely some advantages to seperating the UI and data handling when making bigger ones. 
 
 
