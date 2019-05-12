@@ -11,8 +11,8 @@ TLDR;
 -  Redux is library for application state management, takes React local states and put them in one store
 -  Redux has a store, actions, and reducers, and it separates data management from the UI
 -  Redux has many benefits when building complex applications, however for smaller ones it's less needed
--------------------------------------------------------------------------
 
+_____________________________________________________________________________
 
 Adding React and Redux to my final project was something I struggled with a lot. This lead to a lot of re-reading Flatiron School Curriculum, and googling. In this blogpost I will define some of the key takeaways I have learned about React, Redux, and Redux thunk.
 
