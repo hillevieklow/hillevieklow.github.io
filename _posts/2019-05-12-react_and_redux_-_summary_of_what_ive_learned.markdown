@@ -5,12 +5,13 @@ date:       2019-05-12 16:18:10 -0400
 permalink:  react_and_redux_-_summary_of_what_ive_learned
 ---
 
-*TLDR; 
+TLDR; 
 -  React is a Javascript library for building user interfaces
 -  React divides UI down to pieces of code called components, which take props and have a state
 -  Redux is library for application state management, takes React local states and put them in one store
 -  Redux has a store, actions, and reducers, and it separates data management from the UI
--  Redux has many benefits when building complex applications, however for smaller ones it's less needed*
+-  Redux has many benefits when building complex applications, however for smaller ones it's less needed
+-------------------------------------------------------------------------
 
 
 Adding React and Redux to my final project was something I struggled with a lot. This lead to a lot of re-reading Flatiron School Curriculum, and googling. In this blogpost I will define some of the key takeaways I have learned about React, Redux, and Redux thunk.
